@@ -11,7 +11,7 @@ Note: ** Use at your own risk, iam not responsible for any actions u do with thi
 - BTC: 1CNXJbGe8hTE4TsfcfXNnAcHpz2X9Ndr2H
 - LTC: LcCt7cWiGbnNHZa3zwQhaQMGEhRebewQJH
 - USDT-TRC20: TVJqkyeRV4ZtsRnBL6Wsf9itozxnhNRLfh
-
-https://media.discordapp.net/attachments/1188994132618784820/1188995185120653422/image.png?ex=659c8d0e&is=658a180e&hm=0aa8eb1fad310a28a76ad91cca5dd96024127f3a886e6a450690267826527edd&=&format=webp&quality=lossless
+  
+![Screenshot](https://media.discordapp.net/attachments/1188994132618784820/1188995185120653422/image.png?ex=659c8d0e&is=658a180e&hm=0aa8eb1fad310a28a76ad91cca5dd96024127f3a886e6a450690267826527edd&=&format=webp&quality=lossless)
 
 Showcase: https://youtu.be/jbqsJ_8nWOQ
